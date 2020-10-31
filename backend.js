@@ -15,7 +15,7 @@ const data = [
     'India is second only to the USA when it comes to speaking English with around 125 million people speaking the language, which is only 10% of our population. This is expected to grow by quite a margin in the coming years.'
 ];
 
-const GET_FACT_MESSAGE = "This is your Fact ";
+const GET_FACT_MESSAGE = "This is a Fact about Incredible India";
 
 const LaunchRequestHandler = {
     canHandle(handlerInput) {
